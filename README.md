@@ -1,4 +1,4 @@
-### Hola Afzal Kamboh
+### Afzal Kamboh
 
 - 🔭 I’m currently working on Data Science and Web Development
 - 🌱 I’m currently learning Node.js, React and JavaScript
