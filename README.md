@@ -1,8 +1,7 @@
 ### Afzal Kamboh
 
-🔭 Exploring the universe of Data Science and AI.
-##
-🌱 Learning Python, tableau, R, Reactjs
+🔭 Exploring the universe of Data Science and AI.\
+🌱 Learning Python, tableau, R, Reactjs\
 ##
 👯 Let's collaborate on Data Science projects!
 ##
